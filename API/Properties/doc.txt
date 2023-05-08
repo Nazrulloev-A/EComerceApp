@@ -1,0 +1,12 @@
+ Entity Framework relation with database we do not need to write a sql queries so we will get DbContext from it we will get DbSet
+ Entity Framework features 
+ - modeling - works with objects have get set 
+ - Quering - retrive data from 
+ - tracking changes 
+ - Saving 
+ - Concurency - protect changes 
+ - transactions - 
+ - chaching - geting data again and adain 
+ - Biuild-in Convention - same actions by giving proprerties 
+ - Configuration - how we want to configure 
+ - Migration - how we migrate 
